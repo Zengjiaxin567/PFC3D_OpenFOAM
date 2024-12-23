@@ -1,6 +1,6 @@
 # Using *PFC3D* v700 with *OpenFOAM* v2112 for fluid-particle interaction modeling
 
-
+#test by zeng ,just practice,don't mind me'
 The repository contains information about solving fluid-particle
 interaction problems by coupling *OpenFOAM* based CFD solvers with
 *PFC3D*. *OpenFOAM* is an open source C++ framework for numerical
@@ -8,10 +8,10 @@ analysis of continuum mechanics problems. Particle Flow Code in Three
 Dimensions (*PFC3D*) is a discrete element code produced by Itasca
 Consulting Group.
 
-OPENFOAM® is a registered trade mark of OpenCFD Limited, producer and
+OPENFOAM?is a registered trade mark of OpenCFD Limited, producer and
 distributor of the OpenFOAM software. This offering is not approved or
 endorsed by OpenCFD Limited, producer and distributor of the OpenFOAM
-software and owner of the OPENFOAM® and OpenCFD® trade marks.
+software and owner of the OPENFOAM?and OpenCFD?trade marks.
 
 Itasca Consulting Group does not provide support for *OpenFOAM*.
 
